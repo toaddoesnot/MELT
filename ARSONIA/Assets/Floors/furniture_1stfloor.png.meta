@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: a162896ae09ad7e47b64986d467c137f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1179478414597621489
+    second: furniture_1stfloor_0
+  - first:
+      213: -1568237503061233546
+    second: furniture_1stfloor_1
+  - first:
+      213: -3792671570556664383
+    second: furniture_1stfloor_2
+  - first:
+      213: -5590905958997856155
+    second: furniture_1stfloor_3
+  - first:
+      213: 5967824583930241596
+    second: furniture_1stfloor_4
+  - first:
+      213: 200489754346354405
+    second: furniture_1stfloor_5
+  - first:
+      213: 3807327253111038864
+    second: furniture_1stfloor_6
+  - first:
+      213: 694588201382472194
+    second: furniture_1stfloor_7
+  - first:
+      213: 7443522829150005397
+    second: furniture_1stfloor_8
+  - first:
+      213: 37575983167629449
+    second: furniture_1stfloor_9
+  - first:
+      213: -8026379391374262380
+    second: furniture_1stfloor_10
+  - first:
+      213: 7397019515952672017
+    second: furniture_1stfloor_11
+  - first:
+      213: 2944800143753874940
+    second: furniture_1stfloor_12
+  - first:
+      213: -8190794192112718757
+    second: furniture_1stfloor_13
+  - first:
+      213: -8320269339944632582
+    second: furniture_1stfloor_14
+  - first:
+      213: -3164606250805590592
+    second: furniture_1stfloor_15
+  - first:
+      213: -8997380073835878935
+    second: furniture_1stfloor_16
+  - first:
+      213: 4464608533370172433
+    second: furniture_1stfloor_17
+  - first:
+      213: -1727609574121769968
+    second: furniture_1stfloor_18
+  - first:
+      213: 2524298295310860991
+    second: furniture_1stfloor_19
+  - first:
+      213: -7366749041492843450
+    second: furniture_1stfloor_20
+  - first:
+      213: 7817040158106093994
+    second: furniture_1stfloor_21
+  - first:
+      213: 6853482205922456268
+    second: furniture_1stfloor_22
+  - first:
+      213: 2541737093494245727
+    second: furniture_1stfloor_23
+  - first:
+      213: 522424496437960457
+    second: furniture_1stfloor_24
+  - first:
+      213: -8454899216545258313
+    second: furniture_1stfloor_25
+  - first:
+      213: 4267455936501147521
+    second: furniture_1stfloor_26
+  - first:
+      213: -4851607595009222130
+    second: furniture_1stfloor_27
+  - first:
+      213: 2695355782056684391
+    second: furniture_1stfloor_28
+  - first:
+      213: -1083794564349485194
+    second: furniture_1stfloor_29
+  - first:
+      213: -3486712356026681486
+    second: furniture_1stfloor_30
+  - first:
+      213: -7339379485186143098
+    second: furniture_1stfloor_31
+  - first:
+      213: 913612848225884955
+    second: furniture_1stfloor_32
+  - first:
+      213: -502417945229058055
+    second: furniture_1stfloor_33
+  - first:
+      213: 2847866896350655427
+    second: furniture_1stfloor_34
+  - first:
+      213: -8449839853234178993
+    second: furniture_1stfloor_35
+  - first:
+      213: -5908320879011573345
+    second: furniture_1stfloor_36
+  - first:
+      213: -8737042957289327864
+    second: furniture_1stfloor_37
+  - first:
+      213: -9141823997137433575
+    second: furniture_1stfloor_38
+  - first:
+      213: -1547418122344784235
+    second: furniture_1stfloor_39
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: furniture_1stfloor_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 6474
+        width: 433
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81d0fa7361063d4d93e2b91ae920fee
+      internalID: -1179478414597621489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_1
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 6481
+        width: 394
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8eea1ac1af8ed64aa02863b9b8ab851
+      internalID: -1568237503061233546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_2
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 6403
+        width: 207
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f7a879f41da394988a863bf5cc537e
+      internalID: -3792671570556664383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_3
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 4036
+        width: 1144
+        height: 2865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2858fe850136f49b266f68f4a8faf3
+      internalID: -5590905958997856155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_4
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 4068
+        width: 1752
+        height: 2678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6b9031b44e1434db0f9c307bcebf06
+      internalID: 5967824583930241596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_5
+      rect:
+        serializedVersion: 2
+        x: 4842
+        y: 3674
+        width: 1280
+        height: 2949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c5f4705c5ccea44819955f959c72f3
+      internalID: 200489754346354405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_6
+      rect:
+        serializedVersion: 2
+        x: 6200
+        y: 3512
+        width: 1176
+        height: 3111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edd6b80db7fc944c9d92123feb72774
+      internalID: 3807327253111038864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_7
+      rect:
+        serializedVersion: 2
+        x: 7745
+        y: 4010
+        width: 2534
+        height: 2807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f138585ba195e0498aca930ce528af8
+      internalID: 694588201382472194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_8
+      rect:
+        serializedVersion: 2
+        x: 10609
+        y: 5420
+        width: 1396
+        height: 1300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cae7779aecf124cbf749bfac6fc39a
+      internalID: 7443522829150005397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_9
+      rect:
+        serializedVersion: 2
+        x: 12231
+        y: 5439
+        width: 828
+        height: 1249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a76a28e23bd5b847a9e50d7e0bc0b33
+      internalID: 37575983167629449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 5381
+        width: 1280
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58411309eb2962947971729a0b1c8035
+      internalID: -8026379391374262380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 4243
+        width: 847
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78871343010065142bfb426264f2fed5
+      internalID: 7397019515952672017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_12
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 4210
+        width: 504
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938e57a3d27a2ad4f8c2c578d0f4ac9b
+      internalID: 2944800143753874940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_13
+      rect:
+        serializedVersion: 2
+        x: 10383
+        y: 3499
+        width: 976
+        height: 1565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a9fdd147489924fa786ca53c604cb6
+      internalID: -8190794192112718757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_14
+      rect:
+        serializedVersion: 2
+        x: 11695
+        y: 4178
+        width: 821
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7629042842cdcc345ac9eb2b6d23b674
+      internalID: -8320269339944632582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_15
+      rect:
+        serializedVersion: 2
+        x: 12749
+        y: 1889
+        width: 452
+        height: 3072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27732926f58339c45bf067be5f40de51
+      internalID: -3164606250805590592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3473
+        width: 543
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf73cbed06a4474fa2e74e6de9053da
+      internalID: -8997380073835878935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_17
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2522
+        width: 770
+        height: 1262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cd7c8449ecf2a4e9b69d7b54469b9c
+      internalID: 4464608533370172433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_18
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 3499
+        width: 304
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b965d43ea49b0469826d5df3139ce7
+      internalID: -1727609574121769968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_19
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 3163
+        width: 769
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859d2ecbaa82e8d498a40349e2de8737
+      internalID: 2524298295310860991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_20
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 3564
+        width: 918
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8272fe3bfd7b24aa75590877d31f63
+      internalID: -7366749041492843450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_21
+      rect:
+        serializedVersion: 2
+        x: 7493
+        y: 3460
+        width: 562
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39358d5e5e34cb4e9664dd6059217a7
+      internalID: 7817040158106093994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_22
+      rect:
+        serializedVersion: 2
+        x: 8081
+        y: 3053
+        width: 1118
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d9bb14fb373be46b6a3414fdbecced
+      internalID: 6853482205922456268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_23
+      rect:
+        serializedVersion: 2
+        x: 11611
+        y: 3007
+        width: 1047
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24008bee2d25d3947b1c598b8088e91a
+      internalID: 2541737093494245727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_24
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 3014
+        width: 375
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c148959af00773c4bb459b11ca74108c
+      internalID: 522424496437960457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_25
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 2374
+        width: 148
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e063c0df937164b882b0c2e2a27002
+      internalID: -8454899216545258313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_26
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 601
+        width: 2081
+        height: 2478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212863019c9e50d4791b6fe770b5e42b
+      internalID: 4267455936501147521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_27
+      rect:
+        serializedVersion: 2
+        x: 6348
+        y: 3046
+        width: 1720
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814a7cb43a34dfd49b60dbad79f979fc
+      internalID: -4851607595009222130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_28
+      rect:
+        serializedVersion: 2
+        x: 9284
+        y: 2264
+        width: 2210
+        height: 1170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92012fb06347964ea16e32b1ab52f8b
+      internalID: 2695355782056684391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_29
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2315
+        width: 556
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b822e18f7c0c56d44a8b3428214b091c
+      internalID: -1083794564349485194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_30
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 0
+        width: 1739
+        height: 2658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e43fb10c60fe944a76ebc40d8b4539
+      internalID: -3486712356026681486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_31
+      rect:
+        serializedVersion: 2
+        x: 6491
+        y: 26
+        width: 2527
+        height: 2632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca31e97667513d4bb226df4e9a9c7a7
+      internalID: -7339379485186143098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_32
+      rect:
+        serializedVersion: 2
+        x: 11701
+        y: 2309
+        width: 737
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bbb7a66c9bff84f8e45768680d9374
+      internalID: 913612848225884955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2243
+        height: 2315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5647eac4e2841a64bb309600682b4684
+      internalID: -502417945229058055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_34
+      rect:
+        serializedVersion: 2
+        x: 9296
+        y: 1216
+        width: 1410
+        height: 931
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852bf93a85d8ccf45b48ad5b0f67bddf
+      internalID: 2847866896350655427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_35
+      rect:
+        serializedVersion: 2
+        x: 11126
+        y: 1766
+        width: 743
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92261e5d0b134df468d091901b0bc0a0
+      internalID: -8449839853234178993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_36
+      rect:
+        serializedVersion: 2
+        x: 4118
+        y: 149
+        width: 2114
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fd09d3871fd3e48b0bc65ee3629815
+      internalID: -5908320879011573345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_37
+      rect:
+        serializedVersion: 2
+        x: 9361
+        y: 45
+        width: 2554
+        height: 1022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef24bdce8ae3944eaade0a58b0331fa
+      internalID: -8737042957289327864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_1stfloor_38
+      rect:
+        serializedVersion: 2
+        x: 12193
+        y: 265
+        width: 1034
+        height: 1248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306e0bd775d23724bb106d1a89add833
+      internalID: -9141823997137433575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d0ddf22e19be8c94fa581379b627cca0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
